@@ -26,7 +26,7 @@ mypy==0.790               # via -r requirements-dev.in
 opentracing==2.3.0        # via -r requirements-dev.in
 packaging==19.2           # via pytest
 pathspec==0.6.0           # via black
-pip-tools==5.3.1          # via -r requirements-dev.in
+pip-tools==5.5.0          # via -r requirements-dev.in
 pluggy==0.13.1            # via pytest
 py==1.9.0                 # via pytest
 pylint==2.6.0             # via -r requirements-dev.in
@@ -41,7 +41,7 @@ python-multipart==0.0.5   # via -r requirements-dev.in
 pytz==2019.3              # via django
 regex==2020.10.28         # via black
 requests==2.24.0          # via -r requirements-dev.in, codecov
-six==1.13.0               # via astroid, packaging, pip-tools, python-dateutil, python-multipart, snapshottest
+six==1.13.0               # via astroid, packaging, python-dateutil, python-multipart, snapshottest
 snapshottest==0.6.0       # via -r requirements-dev.in
 sqlparse==0.3.0           # via django
 termcolor==1.1.0          # via snapshottest
